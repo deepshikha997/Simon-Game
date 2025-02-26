@@ -5,7 +5,7 @@ The Simon Game is a classic memory game that challenges players to remember and 
 - **Four Color Buttons:** The game consists of four colorful buttons (red, blue, green, and yellow) that light up and play a sound when clicked.
 - **Game Sequence:** The game starts with a random sequence of button presses that the player must replicate.
 - **User Input:** Players click the buttons in the correct order to match the sequence.
-- **Levels: The game progresses through levels, increasing in difficulty by adding one more step to the sequence.
+- **Levels:** The game progresses through levels, increasing in difficulty by adding one more step to the sequence.
 - **Effects and Animations:** Engaging effects and button animations enhance the gaming experience.
 - **Score Display:** The game keeps track of the player's current level and displays it on the screen.
 ## Technologies Used 
